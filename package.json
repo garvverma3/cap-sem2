@@ -1,5 +1,13 @@
 {
+  "name": "aloo",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
   "dependencies": {
     "@clerk/clerk-react": "^5.35.3"
+  },
+  "devDependencies": {
+    "vite": "^7.0.5"
   }
 }
